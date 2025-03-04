@@ -1,0 +1,858 @@
+{
+    "Month": [
+        {
+            "label": "January",
+            "value": 1
+        },
+        {
+            "label": "February",
+            "value": 2
+        },
+        {
+            "label": "March",
+            "value": 3
+        },
+        {
+            "label": "April",
+            "value": 4
+        },
+        {
+            "label": "May",
+            "value": 5
+        },
+        {
+            "label": "June",
+            "value": 6
+        },
+        {
+            "label": "July",
+            "value": 7
+        },
+        {
+            "label": "August",
+            "value": 8
+        },
+        {
+            "label": "September",
+            "value": 9
+        },
+        {
+            "label": "October",
+            "value": 10
+        },
+        {
+            "label": "November",
+            "value": 11
+        },
+        {
+            "label": "December",
+            "value": 12
+        }
+    ],
+    "Mode": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "Sea Export",
+            "value": "Sea Export"
+        },
+        {
+            "label": "Sea Import",
+            "value": "Sea Import"
+        },
+        {
+            "label": "Triangle",
+            "value": "Triangle"
+        }
+    ],
+    "Industry": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "Automotives",
+            "value": "Automotives"
+        },
+        {
+            "label": "Electronics",
+            "value": "Electronics"
+        },
+        {
+            "label": "Foods",
+            "value": "Foods"
+        },
+        {
+            "label": "Home Appliances",
+            "value": "Home Appliances"
+        },
+        {
+            "label": "Retails",
+            "value": "Retails"
+        },
+        {
+            "label": "Others",
+            "value": "Others"
+        }
+    ],
+    "Role": [
+        {
+            "label": "",
+            "value": ""
+        },{
+            "label": "Data Admin",
+            "value": "dataAdmin"
+        },{
+            "label": "Management",
+            "value": "management"
+        },
+        {
+            "label": "Marketing manager",
+            "value": "marketingManager"
+        },
+        {
+            "label": "Marketing officer",
+            "value": "marketing"
+        },
+        {
+            "label": "Sales",
+            "value": "sales"
+        },
+        {
+            "label": "Sales Manager",
+            "value": "salesManager"
+        },
+        {
+            "label": "Senior Manager",
+            "value": "seniorManager"
+        },
+        {
+            "label": "System Admin",
+            "value": "systemAdmin"
+        }
+    ],
+    "Level": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "IT",
+            "value": "IT"
+        },
+        {
+            "label": "Marketing Officer",
+            "value": "Marketing Officer"
+        },
+        {
+            "label": "Marketing Manager",
+            "value": "Marketing Manager"
+        },
+        {
+            "label": "Management",
+            "value": "Management"
+        },
+        {
+            "label": "Sales",
+            "value": "Sales"
+        },
+        {
+            "label": "Sales Co",
+            "value": "Sales Co"
+        },
+        {
+            "label": "Sales Manager",
+            "value": "Sales Manager"
+        }
+        
+    ],
+    "Team": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "BE-IN",
+            "value": "BE-IN"
+        },
+        {
+            "label": "BD",
+            "value": "BD"
+        },
+        {
+            "label": "Management",
+            "value": "Management"
+        },
+        {
+            "label": "Marketing",
+            "value": "Marketing"
+        },
+        {
+            "label": "SALES FORCE I",
+            "value": "SALES FORCE I"
+        },
+        {
+            "label": "TELESALES",
+            "value": "TELESALES"
+        },
+        {
+            "label": "VICTORY",
+            "value": "VICTORY"
+        }
+    ],
+    "Team2": ["All","BE-IN","BD","Marketing","SALES FORCE I","TELESALES","VICTORY"],
+    "ContactType": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "Decision Maker",
+            "value": "Decision Maker"
+        },
+        {
+            "label": "Influencer",
+            "value": "Influencer"
+        },
+        {
+            "label": "Operation",
+            "value": "Operation"
+        }
+    ],
+    "AgentType": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "Branch",
+            "value": "Branch"
+        },
+        {
+            "label": "Strategic Partner",
+            "value": "Strategic Partner"
+        },
+        {
+            "label": "Member of WCA",
+            "value": "Member of WCA"
+        },
+        {
+            "label": "Other",
+            "value": "Other"
+        }
+    ],
+    "CustomerType": [
+        {
+            "label": "New",
+            "value": "new"
+        },
+        {
+            "label": "Current",
+            "value": "current"
+        },
+        {
+            "label": "Key Account",
+            "value": "key"
+        }
+    ],
+    "Ratetype": [
+        {
+            "label": "DC",
+            "value": "DC"
+        },
+        {
+            "label": "DG",
+            "value": "DG"
+        },
+        {
+            "label": "RF",
+            "value": "RF"
+        },
+        {
+            "label": "OT",
+            "value": "OT"
+        },
+        {
+            "label": "FR",
+            "value": "FR"
+        },
+        {
+            "label": "TANK",
+            "value": "TANK"
+        },
+        {
+            "label": "SOC",
+            "value": "SOC"
+        },
+        {
+            "label": "RAD",
+            "value": "RAD"
+        }
+    ],
+    "province": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "Bangkok",
+            "value": "TH-10"
+        },
+        {
+            "label": "Amnat Charoen",
+            "value": "TH-37"
+        },
+        {
+            "label": "Ang Thong",
+            "value": "TH-15"
+        },
+        {
+            "label": "Bueng Kan",
+            "value": "TH-38"
+        },
+        {
+            "label": "Buriram",
+            "value": "TH-31"
+        },
+        {
+            "label": "Chachoengsao",
+            "value": "TH-24"
+        },
+        {
+            "label": "Chai Nat",
+            "value": "TH-18"
+        },
+        {
+            "label": "Chaiyaphum",
+            "value": "TH-36"
+        },
+        {
+            "label": "Chanthaburi",
+            "value": "TH-22"
+        },
+        {
+            "label": "Chiang Mai",
+            "value": "TH-50"
+        },
+        {
+            "label": "Chiang Rai",
+            "value": "TH-57"
+        },
+        {
+            "label": "Chonburi",
+            "value": "TH-20"
+        },
+        {
+            "label": "Chumphon",
+            "value": "TH-86"
+        },
+        {
+            "label": "Kalasin",
+            "value": "TH-46"
+        },
+        {
+            "label": "Kamphaeng Phet",
+            "value": "TH-62"
+        },
+        {
+            "label": "Kanchanaburi",
+            "value": "TH-71"
+        },
+        {
+            "label": "Khon Kaen",
+            "value": "TH-40"
+        },
+        {
+            "label": "Krabi",
+            "value": "TH-81"
+        },
+        {
+            "label": "Lampang",
+            "value": "TH-52"
+        },
+        {
+            "label": "Lamphun",
+            "value": "TH-51"
+        },
+        {
+            "label": "Loei",
+            "value": "TH-42"
+        },
+        {
+            "label": "Lopburi",
+            "value": "TH-16"
+        },
+        {
+            "label": "Mae Hong Son",
+            "value": "TH-58"
+        },
+        {
+            "label": "Maha Sarakham",
+            "value": "TH-44"
+        },
+        {
+            "label": "Mukdahan",
+            "value": "TH-49"
+        },
+        {
+            "label": "Nakhon Nayok",
+            "value": "TH-26"
+        },
+        {
+            "label": "Nakhon Pathom",
+            "value": "TH-73"
+        },
+        {
+            "label": "Nakhon Phanom",
+            "value": "TH-48"
+        },
+        {
+            "label": "Nakhon Ratchasima",
+            "value": "TH-30"
+        },
+        {
+            "label": "Nakhon Sawan",
+            "value": "TH-60"
+        },
+        {
+            "label": "Nakhon Si Thammarat",
+            "value": "TH-80"
+        },
+        {
+            "label": "Nan",
+            "value": "TH-55"
+        },
+        {
+            "label": "Narathiwat",
+            "value": "TH-96"
+        },
+        {
+            "label": "Nong Bua Lamphu",
+            "value": "TH-39"
+        },
+        {
+            "label": "Nong Khai",
+            "value": "TH-43"
+        },
+        {
+            "label": "Nonthaburi",
+            "value": "TH-12"
+        },
+        {
+            "label": "Pathum Thani",
+            "value": "TH-13"
+        },
+        {
+            "label": "Pattani",
+            "value": "TH-94"
+        },
+        {
+            "label": "Phang Nga",
+            "value": "TH-82"
+        },
+        {
+            "label": "Phatthalung",
+            "value": "TH-93"
+        },
+        {
+            "label": "Phayao",
+            "value": "TH-56"
+        },
+        {
+            "label": "Phetchabun",
+            "value": "TH-67"
+        },
+        {
+            "label": "Phetchaburi",
+            "value": "TH-76"
+        },
+        {
+            "label": "Phichit",
+            "value": "TH-66"
+        },
+        {
+            "label": "Phitsanulok",
+            "value": "TH-65"
+        },
+        {
+            "label": "Phra Nakhon Si Ayutthaya",
+            "value": "TH-14"
+        },
+        {
+            "label": "Phrae",
+            "value": "TH-54"
+        },
+        {
+            "label": "Phuket",
+            "value": "TH-83"
+        },
+        {
+            "label": "Prachinburi",
+            "value": "TH-25"
+        },
+        {
+            "label": "Prachuap Khiri Khan",
+            "value": "TH-77"
+        },
+        {
+            "label": "Ranong",
+            "value": "TH-85"
+        },
+        {
+            "label": "Ratchaburi",
+            "value": "TH-70"
+        },
+        {
+            "label": "Rayong",
+            "value": "TH-21"
+        },
+        {
+            "label": "Roi Et",
+            "value": "TH-45"
+        },
+        {
+            "label": "Sa Kaeo",
+            "value": "TH-27"
+        },
+        {
+            "label": "Sakon Nakhon",
+            "value": "TH-47"
+        },
+        {
+            "label": "Samut Prakan",
+            "value": "TH-11"
+        },
+        {
+            "label": "Samut Sakhon",
+            "value": "TH-74"
+        },
+        {
+            "label": "Samut Songkhram",
+            "value": "TH-75"
+        },
+        {
+            "label": "Saraburi",
+            "value": "TH-19"
+        },
+        {
+            "label": "Satun",
+            "value": "TH-91"
+        },
+        {
+            "label": "Sing Buri",
+            "value": "TH-17"
+        },
+        {
+            "label": "Sisaket",
+            "value": "TH-33"
+        },
+        {
+            "label": "Songkhla",
+            "value": "TH-90"
+        },
+        {
+            "label": "Sukhothai",
+            "value": "TH-64"
+        },
+        {
+            "label": "Suphan Buri",
+            "value": "TH-72"
+        },
+        {
+            "label": "Surat Thani",
+            "value": "TH-84"
+        },
+        {
+            "label": "Surin",
+            "value": "TH-32"
+        },
+        {
+            "label": "Tak",
+            "value": "TH-63"
+        },
+        {
+            "label": "Trang",
+            "value": "TH-92"
+        },
+        {
+            "label": "Trat",
+            "value": "TH-23"
+        },
+        {
+            "label": "Ubon Ratchathani",
+            "value": "TH-34"
+        },
+        {
+            "label": "Udon Thani",
+            "value": "TH-41"
+        },
+        {
+            "label": "Uthai Thani",
+            "value": "TH-61"
+        },
+        {
+            "label": "Uttaradit",
+            "value": "TH-53"
+        },
+        {
+            "label": "Yala",
+            "value": "TH-95"
+        },
+        {
+            "label": "Yasothon",
+            "value": "TH-35"
+        }
+    ],
+    "Incoterms": [
+        {
+            "label": "",
+            "value": ""
+        },
+        {
+            "label": "EXW",
+            "value": "EXW"
+        },
+        {
+            "label": "FCA",
+            "value": "FCA"
+        },
+        {
+            "label": "FAS",
+            "value": "FAS"
+        },
+        {
+            "label": "FOB",
+            "value": "FOB"
+        },
+        {
+            "label": "CFR",
+            "value": "CFR"
+        },
+        {
+            "label": "CIF",
+            "value": "CIF"
+        },
+        {
+            "label": "CPT",
+            "value": "CPT"
+        },
+        {
+            "label": "CIP",
+            "value": "CIP"
+        },
+        {
+            "label": "DAP",
+            "value": "DAP"
+        },
+        {
+            "label": "DPU",
+            "value": "DPU"
+        },
+        {
+            "label": "DDP",
+            "value": "DDP"
+        },
+        {
+            "label": "DDU",
+            "value": "DDU"
+        }
+    ],
+    "currency" : [
+        { "label":"PHILIPPINES PESOS","value":"PHP" },
+        { "label":"MALAYSIA RINGGIT","value":"MYR" },
+        { "label":"NEW ZEALAND DOLLARS","value":"NZD" },
+        { "label":"JAPAN YEN","value":"JPY" },
+        { "label":"SWITZERLAND FRANCS","value":"CHF" },
+        { "label":"SINGAPORE DOLLARS","value":"SGD" },
+        { "label":"AUSTRALIA DOLLARS","value":"AUD" },
+        { "label":"FIJI DOLLARS","value":"FJD" },
+        { "label":"RENMINBI","value":"RMB" },
+        { "label":"UNITED STATES DOLLARS","value":"USD" },
+        { "label":"HONG KONG DOLLARS","value":"HKD" },
+        { "label":"CHINA YUAN RENMIMBI","value":"CNY" },
+        { "label":"UNITED KINGDOM POUNDS","value":"GBP" },
+        { "label":"EURO","value":"EUR" },
+        { "label":"INDIA RUPEES","value":"INR" },
+        { "label":"THAILAND BAHT","value":"THB" },
+        { "label":"VIETNAMESE DONG","value":"VND" },
+        { "label":"YUGOSLAV DINAR","value":"YUN" },
+        { "label":"ZIMBABWE DOLLAR","value":"ZWD" },
+        { "label":"VANUATU VATU","value":"VUV" },
+        { "label":"URUGUAYAN PESO","value":"UYU" },
+        { "label":"UZBEKISTAN SOM","value":"UZS" },
+        { "label":"VENEZUELAN BOLIVAR FUERTE","value":"VEF" },
+        { "label":"UKRAINE KARBOVANETS","value":"UAK" },
+        { "label":"UGANDA SCHILLING","value":"UGX" },
+        { "label":"UKRAINE HRYVNIA","value":"UAG" },
+        { "label":"TURKMENISTAN MANAT","value":"TMM" },
+        { "label":"TURKISH LIRA","value":"TRY" },
+        { "label":"TUNISIAN DINAR","value":"TND" },
+        { "label":"TONGAN PA'ANGA","value":"TOP" },
+        { "label":"TANZANIAN SCHILLING","value":"TZS" },
+        { "label":"TAJIKISTANI SOMONI","value":"TJS" },
+        { "label":"SYRIAN POUND","value":"SYP" },
+        { "label":"SWAZILAND LILANGENI","value":"SZL" },
+        { "label":"SURINAME DOLLAR","value":"SRD" },
+        { "label":"SUDANESE POUND, OLD","value":"SDP" },
+        { "label":"ST.HELENA POUND","value":"SHP" },
+        { "label":"SRI LANKA RUPEE","value":"LKR" },
+        { "label":"SUDANESE POUND","value":"SDG" },
+        { "label":"SIERRA LEONE LEONE","value":"SLL" },
+        { "label":"SOMALI SCHILLING","value":"SOS" },
+        { "label":"SLOVENIAN TOLAR","value":"SIT" },
+        { "label":"SOLOMON ISLANDS DOLLAR","value":"SBD" },
+        { "label":"SEYCHELLES RUPEE","value":"SCR" },
+        { "label":"SERBIAN DINAR","value":"RSD" },
+        { "label":"SAO TOME AND PRINCIPE DOBRA","value":"STD" },
+        { "label":"SAMOAN TALA","value":"WST" },
+        { "label":"RUSSIAN ROUBLE","value":"RUB" },
+        { "label":"RWANDAN FRANC","value":"RWF" },
+        { "label":"QATARI RIAL","value":"QAR" },
+        { "label":"ROMANIAN LEU","value":"RON" },
+        { "label":"PERUVIAN NEUEVO SOL","value":"PEN" },
+        { "label":"PARAGUAY GUARANI","value":"PYG" },
+        { "label":"PANAMANIAN BALBOA","value":"PAB" },
+        { "label":"PAPUA NEW GUINEA KINA","value":"PGK" },
+        { "label":"PALLADIUM","value":"XPD" },
+        { "label":"OMANI RIAL","value":"OMR" },
+        { "label":"NICARAGUAN CORDOBA ORO","value":"NIO" },
+        { "label":"NORTH KOREAN WON","value":"KPW" },
+        { "label":"MYANMAR KYAT","value":"MMK" },
+        { "label":"NAMIBIAN DOLLAR","value":"NAD" },
+        { "label":"NEPALESE RUPEE","value":"NPR" },
+        { "label":"MONGOLIAN TUGRIK","value":"MNT" },
+        { "label":"MOLDOVAN LEU","value":"MDL" },
+        { "label":"MOZAMBIQUE METICAL","value":"MZM" },
+        { "label":"MAURITIUS RUPEE","value":"MUR" },
+        { "label":"MAURITANIAN OUGUIYA","value":"MRO" },
+        { "label":"MALDIVE RUFIYAA","value":"MVR" },
+        { "label":"MALAWI KWACHA","value":"MWK" },
+        { "label":"MALAGASY FRANC","value":"MGF" },
+        { "label":"MACEDONIAN DENAR","value":"MKD" },
+        { "label":"MACAU PATACA","value":"MOP" },
+        { "label":"LIBYAN DINAR","value":"LYD" },
+        { "label":"LIBERIAN DOLLAR","value":"LRD" },
+        { "label":"LESOTHO LOTI","value":"LSL" },
+        { "label":"LITHUANIAN LITAS","value":"LTL" },
+        { "label":"LAO KIP","value":"LAK" },
+        { "label":"KENYAN SCHILLING","value":"KES" },
+        { "label":"KYRGYZSTANIAN SOM","value":"KGS" },
+        { "label":"KAZAKHSTAN TENGE","value":"KZT" },
+        { "label":"IRAQI DINAR","value":"IQD" },
+        { "label":"IRANIAN RIAL","value":"IRR" },
+        { "label":"HAITIAN GOURDE","value":"HTG" },
+        { "label":"HONDURAN LEMPIRA","value":"HNL" },
+        { "label":"GUATEMALAN QUETZAL","value":"GTQ" },
+        { "label":"GUINIA BISSAU PESO","value":"GWP" },
+        { "label":"GUYANAN DOLLAR","value":"GYD" },
+        { "label":"GUINIEA FRANC","value":"GNF" },
+        { "label":"GEORGIAN LARI","value":"GEL" },
+        { "label":"GHANAIAN CEDI","value":"GHC" },
+        { "label":"GIBRALTAR POUND","value":"GIP" },
+        { "label":"GAMBIAN DALASI","value":"GMD" },
+        { "label":"ESTONIAN KROON","value":"EEK" },
+        { "label":"FALKLAND ISLANDS POUND","value":"FKP" },
+        { "label":"ETHIOPIAN BIRR","value":"ETB" },
+        { "label":"ECUADOR SUCRE","value":"ECS" },
+        { "label":"EL SALVADOR COLON","value":"SVC" },
+        { "label":"DOMINICAN PESO","value":"DOP" },
+        { "label":"DJIBOUTI FRANC","value":"DJF" },
+        { "label":"CROATIAN KUNA","value":"HRK" },
+        { "label":"CUBAN PESO","value":"CUP" },
+        { "label":"COLOMBIAN PESOS","value":"COP" },
+        { "label":"CONGOLESE FRANC","value":"CDF" },
+        { "label":"COMOROS FRANC","value":"KMF" },
+        { "label":"CAYMAN ISLANDS DOLLARS","value":"KYD" },
+        { "label":"KAMPUCHEAN (CAMBODIAN) RIEL","value":"KHR" },
+        { "label":"CAPE VERDE ESCUDO","value":"CVE" },
+        { "label":"BURUNDI FRANC","value":"BIF" },
+        { "label":"BULGARIAN LEV","value":"BGN" },
+        { "label":"CFA FRANC  BEAC","value":"XAF" },
+        { "label":"BRAZILIAN CRUZEIRO","value":"BRC" },
+        { "label":"BOTSWANA PULA","value":"BWP" },
+        { "label":"BOLIVIAN BOLIVIANO","value":"BOB" },
+        { "label":"BOSNIA AND HERZEGOVINA","value":"BAM" },
+        { "label":"BHUTAN NGULTRUM","value":"BTN" },
+        { "label":"BELIZE DOLLARS","value":"BZD" },
+        { "label":"BELARUSIAN RUBLE","value":"BYR" },
+        { "label":"BANGLADESHI TAKA","value":"BDT" },
+        { "label":"BAHRAINI DINAR","value":"BHD" },
+        { "label":"ARUBAN FLORIN (OLD GUILDER)","value":"AWG" },
+        { "label":"AZERBAIJAN MANAT","value":"AZM" },
+        { "label":"ARMENIAN DRAM","value":"AMD" },
+        { "label":"ARGENTINE AUSTRAL","value":"ARA" },
+        { "label":"NETHERLANDS ANTILLIAN GUILDER","value":"ANG" },
+        { "label":"ANGOLAN KWANZA","value":"AOA" },
+        { "label":"ANDORRAN PESETA","value":"ADP" },
+        { "label":"ANDORRAN FRANC","value":"ADF" },
+        { "label":"UNITED ARAB EMIRATES DIRHAMS","value":"AED" },
+        { "label":"ALBANIA LEKE","value":"ALL" },
+        { "label":"NIGERIA NAIRAS","value":"NGN" },
+        { "label":"MOROCCO DIRHAMS","value":"MAD" },
+        { "label":"COSTA RICA COLONES","value":"CRC" },
+        { "label":"CFA FRANCS BCEAO","value":"XOF" },
+        { "label":"POLAND ZLOTYCH","value":"PLN" },
+        { "label":"MEXICO PESOS","value":"MXN" },
+        { "label":"MALTA LIRI","value":"MTL" },
+        { "label":"MOROCCO DIRHAMS","value":"MOR" },
+        { "label":"KUWAIT DINARS","value":"KWD" },
+        { "label":"AFGHANISTAN AFGHANIS","value":"AFA" },
+        { "label":"ARGENTINA PESOS","value":"ARS" },
+        { "label":"AUSTRIA SCHILLINGS","value":"ATS" },
+        { "label":"BARBADOS DOLLARS","value":"BBD" },
+        { "label":"BELGIUM FRANCS","value":"BEF" },
+        { "label":"BULGARIA LEV","value":"BGL" },
+        { "label":"BRAZIL REAL","value":"BRL" },
+        { "label":"BAHAMAS DOLLARS","value":"BSD" },
+        { "label":"BERMUDA DOLLARS","value":"BMD" },
+        { "label":"CANADA DOLLARS","value":"CAD" },
+        { "label":"CHILE PESOS","value":"CLP" },
+        { "label":"CYPRUS POUNDS","value":"CYP" },
+        { "label":"CZECH REPUBLIC KORUNA","value":"CZK" },
+        { "label":"GERMANY DEUTSCHE MARKS","value":"DEM" },
+        { "label":"DENMARK KRONER","value":"DKK" },
+        { "label":"ALGERIA DINARS","value":"DZD" },
+        { "label":"EGYPT POUNDS","value":"EGP" },
+        { "label":"SPAIN PESETAS","value":"ESP" },
+        { "label":"FINLAND MARKKA","value":"FIM" },
+        { "label":"FRANCE FRANCS","value":"FRF" },
+        { "label":"GREECE DRACHMAS","value":"GRD" },
+        { "label":"HUNGARY FORINT","value":"HUF" },
+        { "label":"INDONESIA RUPIAH","value":"IDR" },
+        { "label":"IRELAND PUNT","value":"IEP" },
+        { "label":"ISRAEL NEW SHEKELS","value":"ILS" },
+        { "label":"ICELAND KRONA","value":"ISK" },
+        { "label":"ITALY LIRA","value":"ITL" },
+        { "label":"JAMAICA DOLLARS","value":"JMD" },
+        { "label":"JORDAN DINAR","value":"JOD" },
+        { "label":"LEBANON POUNDS","value":"LBP" },
+        { "label":"LUXEMBOURG FRANCS","value":"LUF" },
+        { "label":"KOREA (SOUTH) WON","value":"KRW" },
+        { "label":"MEXICO PESOS","value":"MXP" },
+        { "label":"POLAND ZLOTY","value":"PLZ" },
+        { "label":"PORTUGAL ESCUDO","value":"PTE" },
+        { "label":"PAKISTAN RUPEES","value":"PKR" },
+        { "label":"NETHERLANDS (DUTCH) GUILDERS","value":"NLG" },
+        { "label":"NORWAY KRONER","value":"NOK" },
+        { "label":"ROMANIA LEU","value":"ROL" },
+        { "label":"SAUDI ARABIA RIYAL","value":"SAR" },
+        { "label":"RUSSIA RUBLES","value":"RUR" },
+        { "label":"SUDAN DINAR","value":"SDD" },
+        { "label":"SWEDEN KRONA","value":"SEK" },
+        { "label":"SLOVAKIA KORUNA","value":"SKK" },
+        { "label":"PLATINUM OUNCES","value":"XPT" },
+        { "label":"SOUTH AFRICA RAND","value":"ZAR" },
+        { "label":"ZAMBIA KWACHA","value":"ZMK" },
+        { "label":"SILVER OUNCES","value":"XAG" },
+        { "label":"GOLD OUNCES","value":"XAU" },
+        { "label":"EASTERN CARIBBEAN DOLLARS","value":"XCD" },
+        { "label":"IMF SPECIAL DRAWING RIGHT","value":"XDR" },
+        { "label":"VENEZUELA BOLIVAR","value":"VEB" },
+        { "label":"TRINIDAD AND TOBAGO DOLLARS","value":"TTD" },
+        { "label":"TAIWAN DOLLARS","value":"TWD" },
+        { "label":"TURKEY LIRA","value":"TRL" }
+
+    ]
+}

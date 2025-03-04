@@ -1,0 +1,30 @@
+export class Forecast {
+    fc_uuid: string
+    fc_no: string
+    fc_pol_id: string
+    fc_pod_id: string
+    fc_cus_id: string
+    fc_user_id: string
+    fc_inq_uuid: string
+    fc_week_no: number
+    fc_timestamp: string
+    fc_timestamp_no: string
+    fc_mode: string
+    fc_factory_location: string
+    fc_incoterms: string
+    fc_place_of_receipt: string
+    fc_final_destination: string
+    fc_type: string
+    fc_cargo_readiness: string
+    fc_qw_per_cntr: number
+    fc_idea_rate_per_unit: number
+    fc_container_20: number
+    fc_container_40: number
+    fc_container_40hc: number
+    fc_container_cbm: number
+    fc_special_container: string
+    fc_revernue: number
+    fc_gp: number
+    fc_disable: number
+    fc_commodity: string
+}
