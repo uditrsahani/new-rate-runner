@@ -307,6 +307,13 @@
   "resolved" "https://registry.npmjs.org/@types/node/-/node-14.17.9.tgz"
   "version" "14.17.9"
 
+"@types/nodemailer@^6.4.17":
+  "integrity" "sha512-I9CCaIp6DTldEg7vyUTZi8+9Vo0hi1/T8gv3C89yk1rSAAzoKQ8H8ki/jBYJSFoH/BisgLP8tkZMlQ91CIquww=="
+  "resolved" "https://registry.npmjs.org/@types/nodemailer/-/nodemailer-6.4.17.tgz"
+  "version" "6.4.17"
+  dependencies:
+    "@types/node" "*"
+
 "@types/numeral@^2.0.1":
   "integrity" "sha512-f0LSiBOMnSGILpylIZzYXtnHbhosjPI916W9AkB171MnY+7IVuXHfb7Ohv3AkaDeOieiq74f6vy9ROMxRhfZ1Q=="
   "resolved" "https://registry.npmjs.org/@types/numeral/-/numeral-2.0.1.tgz"
@@ -3330,6 +3337,11 @@
   "version" "2.6.7"
   dependencies:
     "whatwg-url" "^5.0.0"
+
+"nodemailer@^6.10.0":
+  "integrity" "sha512-SQ3wZCExjeSatLE/HBaXS5vqUOQk6GtBdIIKxiFdmm01mOQZX/POJkO3SUX1wDiYcwUOJwT23scFSC9fY2H8IA=="
+  "resolved" "https://registry.npmjs.org/nodemailer/-/nodemailer-6.10.0.tgz"
+  "version" "6.10.0"
 
 "nopt@^5.0.0":
   "integrity" "sha512-Tbj67rffqceeLpcRXrT7vKAN8CwfPeIBgM7E6iBkmKLV7bEMwpGgYLGv0jACUsECaa/vuxP0IjEont6umdMgtQ=="
