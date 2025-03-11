@@ -141,7 +141,7 @@ export class InquiryService {
         //                         'POD', 'POD Country', 'POD Region', 'DEST','Commodity',
         //                         'Type', '20\'', '40\'', '40\' HC', 'CBM', 'Special Container']);
 
-        worksheet.insertRow(2, ['Inquiry Date', 'Cargo Readiness', 'Result', 'Inquiry Status', 'Inquiry No.', 'Revenue',
+        worksheet.insertRow(2, ['Inquiry Date', 'Inquiry Week No.', 'Last Update', 'Cargo Readiness', 'Result', 'Inquiry Status', 'Inquiry No.', 'Revenue',
                                 'GP', 'ROS(%)', 'Customer', 'Sales', 'Team','Mode','Idea Rate Per Unit','Term', 'POL', 'POL Country', 'POL Region',
                                 'POD', 'POD Country', 'POD Region', 'DEST','Commodity',
                                 'Type', '20\'', '40\'', '40\' HC', 'CBM', 'Special Container', 'Res Comment']);
@@ -201,6 +201,8 @@ export class InquiryService {
                 let inq_ros = cal_inq_ros ? cal_inq_ros.toFixed(2) : "";
                 let rowArr = [
                     row.inq_date,
+                    row.inq_res_actual_week_no,
+                    row.inq_tx_time,
                     row.inq_cargo_readiness,
                     row.inq_disable === 1 ? "Disable" : row.inq_res_quote_status ,
                     row.inq_status,
@@ -716,6 +718,7 @@ export class InquiryService {
                 report.inq_gp == "0.00" ? null : report.inq_gp,
                 report.inq_ros,
                 report.inq_res_actual_week_no,
+                report.inq_tx_time,
                 diff_revenue ? diff_revenue.toFixed(2) : null,
                 diff_gp ? diff_gp.toFixed(2) : null,
             ]

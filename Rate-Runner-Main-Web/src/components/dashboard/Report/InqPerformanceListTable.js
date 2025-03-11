@@ -249,6 +249,12 @@ const InqPerformanceListTable = (props) => {
                   Inquiry Date
                 </TableCell>
                 <TableCell>
+                  Inquiry Week No.
+                </TableCell>
+                <TableCell>
+                  Last Update
+                </TableCell>
+                <TableCell>
                   Idea Rate Per Unit
                 </TableCell>
                 <TableCell>
@@ -429,6 +435,12 @@ const InqPerformanceListTable = (props) => {
                   </TableCell>
                   <TableCell>
                     {value.inq_date}
+                  </TableCell>
+                  <TableCell>
+                    {value.inq_res_actual_week_no}
+                  </TableCell>
+                  <TableCell>
+                    {value.inq_tx_time}
                   </TableCell>
                   <TableCell>
                     {value.inq_idea_rate_per_unit}
